@@ -55,8 +55,7 @@ export default function Page() {
         </h1>
 
         <p className="mt-4 text-white/75 text-base leading-relaxed">
-          AI for music ideas — chords, progressions, and inspiration. Minimal noise.
-          Maximum flow.
+        From mix to master to release — clear guidance at every step.
         </p>
 
         <form onSubmit={submit} className="mt-8 space-y-3">
